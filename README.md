@@ -22,7 +22,7 @@ PlatinumSerb
 
 ## Co-Authors/Direct Contributors:
 * goodidea82 - Infrastructure, Installation
-* inan.ahammad - Added garages in VC/LC, testing/bug reporting
+* Grinch_ - Added garages in VC/LC, testing/bug reporting
 * HeicoDE - Bugfixes, script updates
 * eagle152 - zone/gang fixes
 * chaosbginwenrealityend - Culling fixes

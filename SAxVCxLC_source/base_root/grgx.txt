@@ -1,2 +1,0 @@
-Source code of this version of GarageExtender can be found here:
-https://github.com/goodidea82/GarageExtender

@@ -1,4 +1,0 @@
--openOrCreate "radar24000.img" "2"
--importFromDirectory "radar24000_img_src"
--rebuildIfArchiveWasModified
--close

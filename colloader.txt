@@ -1,0 +1,4 @@
+COLFILE 0 new_models\colls_img_src\lc_roads.col
+COLFILE 0 new_models\colls_img_src\VCLCExtras.col
+COLFILE 0 new_models\colls_img_src\AllLCCOLS.col
+COLFILE 0 new_models\colls_img_src\AllViceCols.col

@@ -1,4 +1,0 @@
--openOrCreate "paths.img" "2"
--importFromDirectory "paths_img_src"
--rebuildIfArchiveWasModified
--close
